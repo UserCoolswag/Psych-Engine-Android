@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-62,
+				-58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Inco idle dance"
+		},
+		{
+			"offsets": [
+				9,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Inco Sing Note UP"
+		},
+		{
+			"offsets": [
+				26,
+				-53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Inco Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				4,
+				-112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Inco Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-36,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Inco Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Inco_Mad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		100,
+		100
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
