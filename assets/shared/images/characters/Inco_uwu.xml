@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Inco_uwu.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Inco Sing Note DOWN0000" x="3" y="3" width="347" height="647" frameX="-23" frameY="0" frameWidth="381" frameHeight="647"/>
+	<SubTexture name="Inco Sing Note DOWN0001" x="3" y="3" width="347" height="647" frameX="-23" frameY="0" frameWidth="381" frameHeight="647"/>
+	<SubTexture name="Inco Sing Note DOWN0002" x="354" y="3" width="381" height="646" frameX="0" frameY="-1" frameWidth="381" frameHeight="647"/>
+	<SubTexture name="Inco Sing Note DOWN0003" x="354" y="3" width="381" height="646" frameX="0" frameY="-1" frameWidth="381" frameHeight="647"/>
+	<SubTexture name="Inco Sing Note DOWN0004" x="354" y="3" width="381" height="646" frameX="0" frameY="-1" frameWidth="381" frameHeight="647"/>
+	<SubTexture name="Inco Sing Note DOWN0005" x="354" y="3" width="381" height="646" frameX="0" frameY="-1" frameWidth="381" frameHeight="647"/>
+	<SubTexture name="Inco Sing Note LEFT0000" x="739" y="3" width="346" height="696" frameX="-11" frameY="-9" frameWidth="357" frameHeight="705"/>
+	<SubTexture name="Inco Sing Note LEFT0001" x="739" y="3" width="346" height="696" frameX="-11" frameY="-9" frameWidth="357" frameHeight="705"/>
+	<SubTexture name="Inco Sing Note LEFT0002" x="1089" y="3" width="357" height="705"/>
+	<SubTexture name="Inco Sing Note LEFT0003" x="1089" y="3" width="357" height="705"/>
+	<SubTexture name="Inco Sing Note LEFT0004" x="1089" y="3" width="357" height="705"/>
+	<SubTexture name="Inco Sing Note LEFT0005" x="1089" y="3" width="357" height="705"/>
+	<SubTexture name="Inco Sing Note RIGHT0000" x="1450" y="3" width="346" height="676" frameX="-22" frameY="-8" frameWidth="395" frameHeight="684"/>
+	<SubTexture name="Inco Sing Note RIGHT0001" x="1450" y="3" width="346" height="676" frameX="-22" frameY="-8" frameWidth="395" frameHeight="684"/>
+	<SubTexture name="Inco Sing Note RIGHT0002" x="1800" y="3" width="395" height="684"/>
+	<SubTexture name="Inco Sing Note RIGHT0003" x="1800" y="3" width="395" height="684"/>
+	<SubTexture name="Inco Sing Note RIGHT0004" x="1800" y="3" width="395" height="684"/>
+	<SubTexture name="Inco Sing Note RIGHT0005" x="1800" y="3" width="395" height="684"/>
+	<SubTexture name="Inco Sing Note UP0000" x="2199" y="3" width="341" height="675" frameX="0" frameY="-20" frameWidth="341" frameHeight="696"/>
+	<SubTexture name="Inco Sing Note UP0001" x="2199" y="3" width="341" height="675" frameX="0" frameY="-20" frameWidth="341" frameHeight="696"/>
+	<SubTexture name="Inco Sing Note UP0002" x="2544" y="3" width="335" height="696" frameX="-1" frameY="0" frameWidth="341" frameHeight="696"/>
+	<SubTexture name="Inco Sing Note UP0003" x="2544" y="3" width="335" height="696" frameX="-1" frameY="0" frameWidth="341" frameHeight="696"/>
+	<SubTexture name="Inco Sing Note UP0004" x="2544" y="3" width="335" height="696" frameX="-1" frameY="0" frameWidth="341" frameHeight="696"/>
+	<SubTexture name="Inco Sing Note UP0005" x="2544" y="3" width="335" height="696" frameX="-1" frameY="0" frameWidth="341" frameHeight="696"/>
+	<SubTexture name="Inco idle dance0000" x="2883" y="3" width="274" height="696" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0001" x="3161" y="3" width="288" height="699" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0002" x="3453" y="3" width="302" height="700"/>
+	<SubTexture name="Inco idle dance0003" x="3453" y="3" width="302" height="700"/>
+	<SubTexture name="Inco idle dance0004" x="3759" y="3" width="302" height="700"/>
+	<SubTexture name="Inco idle dance0005" x="3" y="712" width="290" height="699" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0006" x="297" y="712" width="283" height="698" frameX="-1" frameY="-2" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0007" x="584" y="712" width="278" height="697" frameX="-2" frameY="-3" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0008" x="866" y="712" width="276" height="696" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0009" x="1146" y="712" width="274" height="696" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0010" x="1424" y="712" width="274" height="696" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0011" x="1702" y="712" width="274" height="696" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Inco idle dance0012" x="2883" y="3" width="274" height="696" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+</TextureAtlas>
