@@ -1,20 +1,20 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83], "Pico"],
-		["Philly Nice", "pico", [148, 22, 83], "Philly Nice"],
-		["Blammed", "pico", [148, 22, 83], "Blammed"]
+		["Akura", "face", [148, 22, 83], "Pico"],
+		["Choopa", "face", [148, 22, 83], "Philly Nice"],
+		["Hide-A-Track", "face", [148, 22, 83], "Blammed"]
 	],
 
 	"weekCharacters": [
-		"pico",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
+	"weekBackground": "stage",
 
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
+	"storyName": "INCO",
+	"weekBefore": "week8",
+	"weekName": "Week I",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
